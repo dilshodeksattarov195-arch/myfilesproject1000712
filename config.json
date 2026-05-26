@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsdrocess",
+        "uuid": 2150952,
+        "checksum": "bnn4fp"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
